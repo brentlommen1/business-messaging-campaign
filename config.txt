@@ -1,6 +1,0 @@
-[config]
-telnyx_numbers = +18735031508,+18735031507,+18735031506,+18735031505,+18735031504,+18735031502,+18735031501,+18735031500,+18735031499,+18735031498
-approved_number = +16138697763
-excel_file_path = C:/Users/16138/Downloads/Canna North Text Subscribed Members.xlsx
-test_mode = True
-test_numbers = +16138697763
